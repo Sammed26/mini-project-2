@@ -1,0 +1,5 @@
+-> SmartBuy Web App: Developed a tool to summarize Flipkart reviews via web scraping. 
+-> Team Project: Collaborated with four team members using agile methodologies. 
+-> Tech Stack: Used HTML, CSS, Python, Flask and Beautiful Soup for development. 
+-> Automated Summaries: Created an automated review extraction and summarization process. 
+-> User Impact: Improved user decision-making with concise review summaries.
